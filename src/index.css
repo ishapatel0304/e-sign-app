@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+.input-boxes{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 15vh;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.img{
+    height: 35%;
+    width: 35%;
+    border: 12px solid black;
+}
